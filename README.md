@@ -25,5 +25,5 @@ pip install pygame
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/Simulation-des-planetes.git
+git clone https://github.com/AbirLOUARD/Planet-Simulation.git
 ```
